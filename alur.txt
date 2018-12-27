@@ -1,0 +1,6 @@
+- user daftar
+- user login
+- user melihat katalog mobil
+- user melihat detail mobil
+- user melihat daftar pesanan rental mobil
+- user logout

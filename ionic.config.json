@@ -1,0 +1,7 @@
+{
+  "name": "CarRental",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
