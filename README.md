@@ -1,5 +1,5 @@
 # Web-Mobile-Applikasi-Rental-Mobil
-Nama Kelompok:
+#Nama Kelompok:
               Dedik Setiawan (155410006),
               Maikel Suhendra (155410064),
               M. Nurafif      (155410066),
